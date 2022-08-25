@@ -1,5 +1,5 @@
 <h1>Nonogram-Solver</h1>
-<h2>This project solves the Nomogram puzzle. </br></br>
+<h2>This project solves the Nomogram puzzle. </br>
 This project uses c++ and WinAPI/Win32.</h2>
 
 <p>In this repository, there is a Zip folder. This Zip folder was taken from Visual Studio and zipped, if you want to use this project, you can unzip the folder and open it by Visual Studio.
