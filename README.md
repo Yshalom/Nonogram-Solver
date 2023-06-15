@@ -2,10 +2,11 @@
 <h2>This project solves the Nomogram puzzle. </br>
 This project uses c++ and WinAPI/Win32.</h2>
 
-<p>In this repository, there is a Zip folder. This Zip folder was taken from Visual Studio and zipped, if you want to use this project, you can unzip the folder and open it by Visual Studio.
+<p>* Remember to use x86!
 
-* Remember to use x86!<p>
-
+  In the below pictures, you can see several states from the program when it runs.
+<p>
+  
 <img src="nonogram 1.png"></img>
 <img src="nonogram 2.png"></img>
 <img src="nonogram 3.png"></img>
