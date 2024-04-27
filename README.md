@@ -1,6 +1,6 @@
 <h1>Nonogram-Solver</h1>
-<h2>This project solves the Nomogram puzzle. </br>
-This project uses c++ and WinAPI/Win32.</h2>
+<h2>This short-project solves the Nomogram puzzle. </br>
+This short-project uses c++ and WinAPI/Win32.</h2>
 
 <p>* Remember to use x86!
 
