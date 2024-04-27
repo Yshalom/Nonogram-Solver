@@ -4,7 +4,7 @@ This project uses c++ and WinAPI/Win32.</h2>
 
 <p>* Remember to use x86!
 
-  In the below pictures, you can see several states from the program when it runs.
+  In the pictures below, you can see the program when it runs.
 <p>
   
 <img src="nonogram 1.png"></img>
