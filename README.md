@@ -7,8 +7,8 @@
   In the pictures below, you can see the program when it runs.
 <p>
   
-<img src="nonogram 1.png"></img>
-<img src="nonogram 2.png"></img>
-<img src="nonogram 3.png"></img>
-<img src="nonogram 4.png"></img>
-<img src="nonogram 5.png"></img>
+<img src="Images/nonogram 1.png"></img>
+<img src="Images/nonogram 2.png"></img>
+<img src="Images/nonogram 3.png"></img>
+<img src="Images/nonogram 4.png"></img>
+<img src="Images/nonogram 5.png"></img>
